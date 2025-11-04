@@ -7,4 +7,4 @@ The purpose of this project is to gain a deep understanding of the STM32 archite
 
 The repository currently includes drivers for GPIO, SPI, USART, and I2C peripherals. Each driver module is tested through experiments designed to validate core functionality and demonstrate integration with other modules.
 
-This repository serves both as a learning archive for embedded systems enthusiasts and as a professional portfolio showcasing low-level driver development skills.
+This repository serves both as a learning archive for embedded systems enthusiasts and as a portfolio showcasing low-level driver development skills.
