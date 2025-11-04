@@ -1,5 +1,5 @@
-# STM32f407xx_drivers
-STM32F407xx Baremetal Drivers
+# STM32f407xx_Drivers
+
 
 This repository explains the bare-metal driver development process for the STM32F407VGT6 microcontroller. All drivers are implemented entirely in C, without relying on HAL or CMSIS libraries.
 
